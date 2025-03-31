@@ -34,6 +34,7 @@ This repo also includes reusable UI components such as:
 - Pricing cards
 - Call-to-action sections
 - Navigation and footers
+- Buttons and Other UI elements
 
 ## Resources & Tools
 - Figma UI kits
