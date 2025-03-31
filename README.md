@@ -45,8 +45,8 @@ This repo also includes reusable UI components such as:
 [Check out Resources](tools-and-resources.md)
 
 ## Get Featured
-Want your landing page, UI component, or Figma file to be featured?  
-Submit a pull request or reach out on [𝕏](https://twitter.com/_TripathiJi).
+Want to showcase your landing page or UI component, or Figma design to be featured?
+Fork the repo, submit a pull request or reach out on [𝕏](https://twitter.com/_TripathiJi).
 
 ## Connect
 - 𝕏: [@_TripathiJi](https://twitter.com/_TripathiJi)
