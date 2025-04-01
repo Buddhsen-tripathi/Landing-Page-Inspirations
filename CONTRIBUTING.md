@@ -25,7 +25,7 @@ Thank you for considering a contribution! <br/> This project is a community-driv
 A short explanation of what makes this landing page effective.
 ```
 4. Add an image in `assets` with the filename matching your markdown file.  
-5. Submit a pull request.
+5. Submit a pull request to the main branch.
 
 ### Adding UI Components
 We also accept reusable UI components such as buttons, pricing cards, and navigation bars.
